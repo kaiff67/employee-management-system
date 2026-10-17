@@ -1,0 +1,4 @@
+# Copy this file to db.properties and enter your own MySQL username and password.
+db.url=jdbc:mysql://localhost:3306/employee_management
+db.username=root
+db.password=change_me
